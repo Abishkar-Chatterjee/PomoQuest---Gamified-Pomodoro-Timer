@@ -32,7 +32,7 @@ No other dependencies. No backend.
 
 ```bash
 # clone the repo
-git clone https://github.com/YOUR-USERNAME/pomoquest.git
+git clone https://github.com/YOUR-USERNAME/pomoquest.git](https://github.com/Abishkar-Chatterjee/PomoQuest---Gamified-Pomodoro-Timer.git
 cd pomoquest
 
 # install dependencies
