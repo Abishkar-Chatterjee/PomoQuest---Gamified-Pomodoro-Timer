@@ -87,9 +87,6 @@ This is a learning project, not a production app — a few things to know before
 - **Saves are local to one browser.** There's no server, so progress doesn't sync across devices unless you replace the storage layer.
 - **Guest mode saves nothing.** It's there for trying the app without creating an account.
 
-## Documentation
-
-[`WALKTHROUGH.md`](WALKTHROUGH.md) is a full companion guide to the codebase, written for someone new to React — it explains every section of `PomoQuest.jsx`, core React concepts (state, props, effects, refs), common beginner pitfalls, and a set of graded exercises for extending the app.
 
 ## License
 
